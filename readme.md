@@ -1,4 +1,4 @@
-Practice assignment 7
+# Practice assignment 7
 
 Download the titanic dataset from kaggle. Unzip the folder and keep only the train.csv
 file. Rename the file as titanic. csv
